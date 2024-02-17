@@ -37,7 +37,6 @@ public class Main {
         int Visitantes = scanner.nextInt();
 
         //Se muestra en pantalla
-
         System.out.println("Informacion Del Visitante");
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + Edad);
